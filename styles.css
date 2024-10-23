@@ -146,7 +146,7 @@ body label.mercury > .preview {
   background: url("https://www.solarsystemscope.com/images/textures/full/2k_makemake_fictional.jpg") !important;
 }
 body label.venus > .preview {
-  background: url("https://nasa3d.arc.nasa.gov/shared_assets/images/ven0aaa2/ven0aaa2-copy-428-321.jpg") !important;
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b7029c3-9717-4658-9066-11c30aa24029/dctqvn0-4efa81e8-656a-4f2c-81f5-91ba4801704f.png/v1/fill/w_1280,h_640,q_80,strp/venus_texture_map_by_oleg_pluton_dctqvn0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvOWI3MDI5YzMtOTcxNy00NjU4LTkwNjYtMTFjMzBhYTI0MDI5XC9kY3Rxdm4wLTRlZmE4MWU4LTY1NmEtNGYyYy04MWY1LTkxYmE0ODAxNzA0Zi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.IF758u8HVFFOkU2krmJsldgS1hri8LNEfuhAhOJSdbM") !important;
 }
 body label.earth > .preview {
   background: url("https://img00.deviantart.net/04ef/i/2009/114/3/e/new_earth_texture_map_by_lightondesigns.jpg") !important;
@@ -170,7 +170,7 @@ body label.pluto > .preview {
   background: url("https://pre00.deviantart.net/4677/th/pre/f/2015/314/4/e/pluto_map__2015_nov_10__by_snowfall_the_cat-d918tlb.png") !important;
 }
 body label.menu {
-  color: white;
+  color: rgb(255, 255, 255);
   display: block;
   position: absolute;
   cursor: pointer;
@@ -181,7 +181,7 @@ body label.menu:after {
   display: block;
   width: 12px;
   height: 12px;
-  border: 2px solid white;
+  border: 2px solid rgb(255, 251, 251);
   border-radius: 60px;
   content: "";
   z-index: 2;
@@ -1857,7 +1857,7 @@ body .solar_systm .planet.mercury {
   box-shadow: 0 -590px 150px black inset, 0 0px 130px 40px rgba(234, 205, 199, 0.6) inset, 0 0px 23px 4px rgba(234, 205, 199, 0.6) inset, 0 -10px 130px rgba(188, 143, 127, 0.6);
 }
 body .solar_systm .planet.venus {
-  background: url("https://nasa3d.arc.nasa.gov/shared_assets/images/ven0aaa2/ven0aaa2-copy-428-321.jpg");
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b7029c3-9717-4658-9066-11c30aa24029/dctqvn0-4efa81e8-656a-4f2c-81f5-91ba4801704f.png/v1/fill/w_1280,h_640,q_80,strp/venus_texture_map_by_oleg_pluton_dctqvn0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvOWI3MDI5YzMtOTcxNy00NjU4LTkwNjYtMTFjMzBhYTI0MDI5XC9kY3Rxdm4wLTRlZmE4MWU4LTY1NmEtNGYyYy04MWY1LTkxYmE0ODAxNzA0Zi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.IF758u8HVFFOkU2krmJsldgS1hri8LNEfuhAhOJSdbM");
   box-shadow: 0 -590px 150px black inset, 0 0px 130px 40px #ffcb9c inset, 0 0px 23px 4px #ffcb9c inset, 0 -10px 130px #b85a07;
 }
 body .solar_systm .planet.earth {
@@ -1917,7 +1917,7 @@ body .solar_systm .planet.mars .phoebos {
   box-shadow: 0px -30px 30px 10px black inset;
 }
 body .solar_systm .planet.jupiter {
-  background: url("https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA07782_hires.jpg");
+  background: url("https://i.pinimg.com/originals/be/ba/b4/bebab4e9768b78a4f5dc8b7a2b24daaf.jpg");
   box-shadow: 0 -590px 150px black inset, 0 0px 130px 40px rgba(234, 205, 199, 0.6) inset, 0 0px 23px 4px rgba(234, 205, 199, 0.6) inset, 0 -10px 130px rgba(188, 143, 127, 0.6);
 }
 body .solar_systm .planet.jupiter .moon h3 {
