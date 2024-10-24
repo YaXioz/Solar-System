@@ -1892,7 +1892,7 @@ body .solar_systm .planet.mars .deimos {
   left: 900px;
   top: -100px;
   transform: scale(0.45);
-  background: url("https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA07782_hires.jpg");
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b7029c3-9717-4658-9066-11c30aa24029/dcrr1qe-0c8c3cd3-fc94-4eb2-aa66-243a418a6e38.png/v1/fill/w_1280,h_640,q_80,strp/deimos_texture_map_by_oleg_pluton_dcrr1qe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvOWI3MDI5YzMtOTcxNy00NjU4LTkwNjYtMTFjMzBhYTI0MDI5XC9kY3JyMXFlLTBjOGMzY2QzLWZjOTQtNGViMi1hYTY2LTI0M2E0MThhNmUzOC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rA1-WRU-RreDcH20QtR9MN9waGvbvskDEm9CUXAVgk8");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
@@ -1912,7 +1912,7 @@ body .solar_systm .planet.mars .phoebos {
   left: 100px;
   top: -160px;
   transform: scale(0.5);
-  background: url("https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA07782_hires.jpg");
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b7029c3-9717-4658-9066-11c30aa24029/dcuvm2n-402ff6b3-64aa-411c-8a96-91936ed10e0e.png/v1/fill/w_1280,h_640,q_80,strp/phobos_texture_map_by_oleg_pluton_dcuvm2n-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvOWI3MDI5YzMtOTcxNy00NjU4LTkwNjYtMTFjMzBhYTI0MDI5XC9kY3V2bTJuLTQwMmZmNmIzLTY0YWEtNDExYy04YTk2LTkxOTM2ZWQxMGUwZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.srkRxWPjBNR78MLby3cGja8F4Wa84lksrUr6a7Qo6V0");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
@@ -1945,7 +1945,7 @@ body .solar_systm .planet.jupiter .lo {
   left: 100px;
   top: -100px;
   transform: scale(0.4);
-  background: url("http://stevealbers.net/albers/sos/jupiter/io/io_rgb_cyl.jpg");
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c46c5ac-a717-469a-b4f8-b8fdfbc4c44f/dgs72iv-520ab88e-349f-4102-9e13-3fea873e64cb.png/v1/fill/w_1280,h_640,q_80,strp/io_texture__2k__by_ducn1567_dgs72iv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvN2M0NmM1YWMtYTcxNy00NjlhLWI0ZjgtYjhmZGZiYzRjNDRmXC9kZ3M3Mml2LTUyMGFiODhlLTM0OWYtNDEwMi05ZTEzLTNmZWE4NzNlNjRjYi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7z_vH2kTd5sWSvzl2cpaGMehD362q4-1lBhftGuC0Ys");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
@@ -1953,7 +1953,7 @@ body .solar_systm .planet.jupiter .europa {
   left: 400px;
   top: -210px;
   transform: scale(0.45);
-  background: url("http://i.imgur.com/ZZBiHOH.jpg");
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c46c5ac-a717-469a-b4f8-b8fdfbc4c44f/dgs72gf-20a632d5-99a0-4dda-ad91-7eb64cb5f3a6.png/v1/fill/w_1264,h_632,q_70,strp/europa_texture__2k__by_ducn1567_dgs72gf-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvN2M0NmM1YWMtYTcxNy00NjlhLWI0ZjgtYjhmZGZiYzRjNDRmXC9kZ3M3MmdmLTIwYTYzMmQ1LTk5YTAtNGRkYS1hZDkxLTdlYjY0Y2I1ZjNhNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4dDd8b9NlSk2Yqe375UQQegJsfhy6XETmbmEDJMmDSQ");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
@@ -1961,7 +1961,7 @@ body .solar_systm .planet.jupiter .ganymede {
   left: 900px;
   top: -70px;
   transform: scale(0.4);
-  background: url("https://vignette.wikia.nocookie.net/planet-texture-maps/images/1/14/Ganymede.jpg/revision/latest?cb=20180104001948");
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c46c5ac-a717-469a-b4f8-b8fdfbc4c44f/dgs72dk-61c483b5-af27-4de7-9925-a4d08ec14e39.png/v1/fill/w_1264,h_632,q_70,strp/ganymede_texture__2k__by_ducn1567_dgs72dk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvN2M0NmM1YWMtYTcxNy00NjlhLWI0ZjgtYjhmZGZiYzRjNDRmXC9kZ3M3MmRrLTYxYzQ4M2I1LWFmMjctNGRlNy05OTI1LWE0ZDA4ZWMxNGUzOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vjnKozAnVRLp29w9arfZAjLVagqZ7ZUQ7MPc_i1k4D4");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
@@ -2010,7 +2010,7 @@ body .solar_systm .planet.saturn .enceladus {
   left: 900px;
   top: -70px;
   transform: scale(0.4);
-  background: url("https://img.purch.com/w/660/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA0NC8yMzkvb3JpZ2luYWwvZW5jZWxhZHVzLW1hcC1jYXNzaW5pLmpwZw==");
+  background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b7029c3-9717-4658-9066-11c30aa24029/dcqc1q6-b33d6702-3ed5-45d7-bec8-9c2de66ce358.png/v1/fill/w_1280,h_640,q_80,strp/enceladus_texture_map__improved__by_oleg_pluton_dcqc1q6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvOWI3MDI5YzMtOTcxNy00NjU4LTkwNjYtMTFjMzBhYTI0MDI5XC9kY3FjMXE2LWIzM2Q2NzAyLTNlZDUtNDVkNy1iZWM4LTljMmRlNjZjZTM1OC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.o9OM9IYVVIsT6q5iejfbH6iH-LMKHomuFLlWDZfV3PA");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
@@ -2043,7 +2043,7 @@ body .solar_systm .planet.uranus .miranda {
   left: 100px;
   top: -100px;
   transform: scale(0.4);
-  background: url("http://celestia.simulatorlabbs.com/CelSL/textures/medres/miranda.jpg");
+  background: url("https://lh4.googleusercontent.com/proxy/rbkOREXy1x0o_Gr3ox2sVkUdjXaoVY8d6UW7SPgNd90Vfv-hNjzhS_-nrPeCae9UENfZxG-87qvN_8l6wHICqkgNhw9hoRBvhcN90QCURT-ydpHHTao");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
@@ -2051,7 +2051,7 @@ body .solar_systm .planet.uranus .ariel {
   left: 400px;
   top: -210px;
   transform: scale(0.45);
-  background: url("http://celestia.freedoors.org/Celestia-Doors/textures/medres/ariel.jpg");
+  background: url("https://lh5.googleusercontent.com/proxy/5ZOkigxSFUf6C2Ji6mY-Jx24-IOmjVbgsWFOQxi99oMrMy6P2HLXTpRfdoFI7vbfiZWmKF7aqCrpPbyU3gpVPc1twETfVQvwu6gl11I0qHB0Fy-p");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
@@ -2059,7 +2059,7 @@ body .solar_systm .planet.uranus .umbriel {
   left: 900px;
   top: -70px;
   transform: scale(0.4);
-  background: url("http://celestia.freedoors.org/Celestia-Doors/textures/medres/titania.jpg");
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgtWoye-Y_G5dg343ibCqR3_Sxo1f3FXwRJSsA7uOWbolaA34787A-J4CD6_Ro6iRe6_I&usqp=CAU");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
@@ -2092,7 +2092,7 @@ body .solar_systm .planet.neptune .triton {
   left: 100px;
   top: -100px;
   transform: scale(0.4);
-  background: url("https://img00.deviantart.net/b934/i/2016/198/b/0/triton_texture_map_14k_by_fargetanik-daac9tm.png");
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Eq19v3fWAkgAfSjfm6V3JxtyuAEiHR0uw&s");
   z-index: -1;
   box-shadow: 0px -30px 30px 10px black inset;
 }
