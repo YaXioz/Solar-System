@@ -117,7 +117,7 @@ body input[type=radio][name=planet]::after {
 
 body {
   overflow: hidden;
-  background: black;
+  background: rgb(0, 0, 0);
   height: 100vh;
   font-family: "Montserrat", sans-serif;
 }
@@ -1872,7 +1872,7 @@ body .solar_systm .planet.earth .trajectory.m {
 }
 body .solar_systm .planet.earth .moon {
   left: 800px;
-  top: -160px;
+  top: -150px;
   transform: scale(0.45);
   background: url("https://img2.cgtrader.com/items/702173/682fad2a11/92k-moon-color-map-3d-model.jpg");
   z-index: -1;
@@ -1951,7 +1951,7 @@ body .solar_systm .planet.jupiter .lo {
 }
 body .solar_systm .planet.jupiter .europa {
   left: 400px;
-  top: -210px;
+  top: -285px;
   transform: scale(0.45);
   background: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7c46c5ac-a717-469a-b4f8-b8fdfbc4c44f/dgs72gf-20a632d5-99a0-4dda-ad91-7eb64cb5f3a6.png/v1/fill/w_1264,h_632,q_70,strp/europa_texture__2k__by_ducn1567_dgs72gf-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvN2M0NmM1YWMtYTcxNy00NjlhLWI0ZjgtYjhmZGZiYzRjNDRmXC9kZ3M3MmdmLTIwYTYzMmQ1LTk5YTAtNGRkYS1hZDkxLTdlYjY0Y2I1ZjNhNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4dDd8b9NlSk2Yqe375UQQegJsfhy6XETmbmEDJMmDSQ");
   z-index: -1;
@@ -2000,7 +2000,7 @@ body .solar_systm .planet.saturn .titan {
 }
 body .solar_systm .planet.saturn .dione {
   left: 400px;
-  top: -210px;
+  top: -285px;
   transform: scale(0.45);
   background: url("https://www.jpl.nasa.gov/spaceimages/images/wallpaper/PIA12577-640x350.jpg");
   z-index: -1;
@@ -2049,7 +2049,7 @@ body .solar_systm .planet.uranus .miranda {
 }
 body .solar_systm .planet.uranus .ariel {
   left: 400px;
-  top: -210px;
+  top: -285px;
   transform: scale(0.45);
   background: url("https://lh5.googleusercontent.com/proxy/5ZOkigxSFUf6C2Ji6mY-Jx24-IOmjVbgsWFOQxi99oMrMy6P2HLXTpRfdoFI7vbfiZWmKF7aqCrpPbyU3gpVPc1twETfVQvwu6gl11I0qHB0Fy-p");
   z-index: -1;
@@ -2098,7 +2098,7 @@ body .solar_systm .planet.neptune .triton {
 }
 body .solar_systm .planet.neptune .proteus {
   left: 400px;
-  top: -210px;
+  top: -285px;
   transform: scale(0.45);
   background: url("http://2.bp.blogspot.com/-NrsDNbSk8TU/VKmLHdOgw0I/AAAAAAAAHvY/dod1Kqv2Ta8/s1600/NereidTxt2.jpg");
   z-index: -1;
